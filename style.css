@@ -145,13 +145,12 @@
 
 @media only screen and (max-width: 1284px) {
     .Informasi .Nama {
-        top: 2030px;
-        right: 20px;
+        margin-top: 10px;
+        margin-left: 35px;
+        position: static;
     }
+
 }
-
-
-
 
 
 .Dari {
