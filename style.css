@@ -94,6 +94,7 @@
 .Informasi .info {
     margin-top: 5%;
     font-size: 25px;
+    margin-bottom: 5%;
 }
 
 @media only screen and (max-width: 600px) {
@@ -120,7 +121,7 @@
 .Informasi .Nama {
     position: absolute;
     z-index: 1;
-    top: 1725px;
+    top: 1750px;
     right: 60px;
     background-color: #2C2C2C;
     border-radius: 5px;
@@ -137,17 +138,19 @@
 
 @media only screen and (max-width: 600px) {
     .Informasi .Nama {
-        top: 1828px;
+        top: 1928px;
         right: 20px;
     }
 }
 
 @media only screen and (max-width: 1284px) {
     .Informasi .Nama {
-        top: 1980px;
+        top: 2030px;
         right: 20px;
     }
 }
+
+
 
 
 
